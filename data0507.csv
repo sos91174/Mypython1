@@ -1,0 +1,11 @@
+car,year,door,color,cc,price(10K)
+Ferrari 812 GTS,2020,2,black,6496,1980
+Maserrati Ghibli,2020,4,black,2979,570
+Porsche Panamera,2020,2,gray,2995,1000
+Tesla,2020,4,white,0,300
+BMW X6,2020,4,black,2998,560
+BENZ A Class,2020,4,yellow,2000,300
+CR-V,2020,4,red,2400,120
+HR-V,2020,4,blue,2000,80
+Yaris,2020,4,gray,2000,60
+Tiida,2020,4,red,2000,60
